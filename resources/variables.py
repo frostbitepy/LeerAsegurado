@@ -18,5 +18,5 @@ cuadroSobreescritura = False
 fechaInicioLeida = ""
 esCumulo = False
 nroDocumento = 4829699
-rutaArchivoDatosAsegurado = "C:\Code\RPA\Archivos\datosAsegurado.xlsx"
+rutaArchivoDatosAsegurado = "C:\Code\RPA\RobotControlCumulos\datosAsegurado.xlsx"
 
